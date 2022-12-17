@@ -87,9 +87,9 @@ If you have any queries or need some help in deployment, you may contact me here
 <a href="mailto:iammehrose@gmail.com"><img src="https://cdn.cdnlogo.com/logos/g/93/gmail.svg" height="50px"></a>
 
 Made with 💖 by Malik Mehrose
-
+</div>
 ## Demo
 
-(https://github.com/IamMehrose/Birthday-Wish-Unique-/blob/ca3e8c50f813ca698571f19befcfead853ee705d/src/resources/img/demo-bd.png)
+![Capture](https://github.com/IamMehrose/Birthday-Wish-Unique-/blob/ca3e8c50f813ca698571f19befcfead853ee705d/src/resources/img/demo-bd.png)
 
-</div>
+
