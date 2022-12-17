@@ -4,8 +4,8 @@ A Customizable Web based birthday card to wish your friends and family in a uniq
 
 Check out the Previews -
 
-- [Without Scroll Message](https://happy-birthday-card.vercel.app/)
-- [With Scroll Message](https://hbd-card.netlify.app/)
+- [Without Scroll Message](http://new-magic.vercel.app/)
+- [With Scroll Message](http://new-magic.vercel.app/)
 
 If you liked it, please consider giving it star a 🤩⭐.
 
