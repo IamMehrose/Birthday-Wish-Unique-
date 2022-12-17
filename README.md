@@ -77,6 +77,12 @@ For further customization, checkout [here](./docs/customizations.md).
 
 ---
 
+## Demo
+
+![Capture](https://github.com/IamMehrose/Birthday-Wish-Unique-/blob/ca3e8c50f813ca698571f19befcfead853ee705d/src/resources/img/demo-bd.png)
+
+---
+
 ## Support
 
 If you have any queries or need some help in deployment, you may contact me here
@@ -88,8 +94,4 @@ If you have any queries or need some help in deployment, you may contact me here
 
 Made with 💖 by Malik Mehrose
 </div>
-## Demo
-
-![Capture](https://github.com/IamMehrose/Birthday-Wish-Unique-/blob/ca3e8c50f813ca698571f19befcfead853ee705d/src/resources/img/demo-bd.png)
-
 
