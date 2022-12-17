@@ -19,11 +19,11 @@ Here are the methods to set it up for yourself.
 
 - Vercel Deploy
 
-  [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FAnshumanMahato%2FHappy-Birthday-Card&env=NAME,PIC&envDescription=NAME%20-%3E%20Name%20of%20the%20Receiver%20%7C%20PIC%20-%3E%20web%20url%20of%20a%20picture%20of%20the%20receiver&envLink=https%3A%2F%2Fgithub.com%2FAnshumanMahato%2FHappy-Birthday-Card%2Fblob%2Fmain%2Fdocs%2Fvariables.md&project-name=happy-birthday-card&repo-name=happy-birthday-card&demo-title=Happy%20Birthday%20Card&demo-description=This%20is%20a%20web%20based%20interactive%20birthday%20card.&demo-url=https%3A%2F%2Fhappy-birthday-card.vercel.app%2F&demo-image=https%3A%2F%2Ftelegra.ph%2Ffile%2Fac886529ccc3843552f81.png)
+   [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/IamMehrose/Birthday-Wish-Unique-&env=NAME,PIC&envDescription=NAME%20-%3E%20Name%20of%20the%20Receiver%20%7C%20PIC%20-%3E%20web%20url%20of%20a%20picture%20of%20the%20receiver&envLink=hhttps://github.com/IamMehrose/Birthday-Wish-Unique-%2Fblob%2Fmain%2Fdocs%2Fvariables.md&project-name=happy-birthday-card&repo-name=happy-birthday-card&demo-title=Happy%20Birthday%20Card&demo-description=This%20is%20a%20web%20based%20interactive%20birthday%20card.&demo-url=http://new-magic.vercel.app/&demo-image=https://github.com/IamMehrose/Birthday-Wish-Unique-/blob/ca3e8c50f813ca698571f19befcfead853ee705d/src/resources/img/demo-bd.png)
+  
+ - Netlify Deploy
 
-- Netlify Deploy
-
-  [![Deploy with NEtlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/AnshumanMahato/Happy-Birthday-Card)
+  [![Deploy with NEtlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/IamMehrose/Birthday-Wish-Unique-)
 
 Remote deployment will require you to specify some mandatory Evironment Variables,
 
@@ -87,5 +87,9 @@ If you have any queries or need some help in deployment, you may contact me here
 <a href="mailto:iammehrose@gmail.com"><img src="https://cdn.cdnlogo.com/logos/g/93/gmail.svg" height="50px"></a>
 
 Made with 💖 by Malik Mehrose
+
+## Demo
+
+(https://github.com/IamMehrose/Birthday-Wish-Unique-/blob/ca3e8c50f813ca698571f19befcfead853ee705d/src/resources/img/demo-bd.png)
 
 </div>
